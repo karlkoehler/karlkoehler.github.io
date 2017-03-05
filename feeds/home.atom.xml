@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Karl's projekt page - Home</title><link href="/" rel="alternate"></link><link href="/feeds/home.atom.xml" rel="self"></link><id>/</id><updated>2016-06-06T00:00:00+02:00</updated><entry><title>Homepage</title><link href="/" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/</id><summary type="html">&lt;p&gt;I'm learning a bit about HTML and CSS, and as such, these pages are quite experimental.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Karl's project page - Home</title><link href="/" rel="alternate"></link><link href="/feeds/home.atom.xml" rel="self"></link><id>/</id><updated>2016-06-06T00:00:00+02:00</updated><entry><title>Homepage</title><link href="/" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/</id><summary type="html">&lt;p&gt;I'm learning a bit about HTML and CSS, and as such, these pages are quite experimental.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -9,12 +9,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="/picknicktisch.html"&gt;picnic table&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/de/Picknicktisch.html"&gt;picnic table&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href="/sankt-martin.html"&gt;Sankt Martin&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="/doppelbett.html"&gt;bunkbed&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/de/Doppelbett.html"&gt;bunkbed&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/geburtstag.html"&gt;birthday&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -50,12 +50,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="/picknicktisch.html"&gt;picnic table&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/de/Picknicktisch.html"&gt;picnic table&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href="/sankt-martin.html"&gt;Sankt Martin&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="/doppelbett.html"&gt;bunkbed&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/de/Doppelbett.html"&gt;bunkbed&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/geburtstag.html"&gt;birthday&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

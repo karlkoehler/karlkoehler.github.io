@@ -1,0 +1,136 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage[letterpaper, portrait, margin=1.0in]{geometry}
+
+
+
+%% article | report
+%% part | chapter | section | subsection
+% \title{}
+
+%% \paper { #(set-paper-size "a4" 'portrait) }
+%% 'landscape
+
+%\titleformat{\section}[wrap]
+%{\Large\bfseries}
+%{\thesection.}{0.5em}{}
+
+\begin{document}
+
+
+% Weil heute Dein Geburtstag ist
+%
+
+\section*{Weil heute Dein Geburtstag ist}
+\begin{lilypond}
+\score {
+  <<
+    \new Staff {
+      \new Voice = "melody" {
+        \time 4/4
+        { \partial 4 g'4 | e'4 e'4   d'4 d'4 | c'4 c'4 c'4 g'4 |
+          a'4 a'4 f'4 a'4 | g'2. g'4 |
+          a'4 g'4 a'4 b'4 | c''4 g'4 g'4 f'4 |
+          e'4 e'4 d'4 g'4 | c'2. r4 \bar "|."
+        }
+      }
+    }
+    \new Lyrics = "firstVerse" {
+      \lyricsto "melody" {
+    %   \set stanza = #"1.
+        Weil heu -- te dein Ge -- burts -- tag ist, da ha -- ben wir ge -- dacht: wir sin -- gen dir ein klei -- nes Lied, weil dir das Freu -- de macht.
+      }
+    }
+    \new Lyrics = "secondVerse" {
+      \lyricsto "melody" {
+        So -- gar ein bun -- ter Blu -- men -- strauß schmückt heu -- te dei -- nen Tisch. Wenn du den Strauß ins Was -- ser stellst, dann bleibt er lan -- ge frisch.  
+      }
+    }
+    \new Lyrics = "thirdVerse" {
+      \lyricsto "melody" {
+        Und wenn du ei -- nen Ku -- chen hast, so groß wie´n Müh -- len -- stein, und Scho -- ko -- la -- de auch da -- zu, dann lad uns al -- le ein.
+      }
+    }
+  >>
+
+}
+
+\end{lilypond}
+\\
+
+%
+% Deutscher standardtext zu "Happy Birthday"
+%
+
+\section*{Zum Geburtstag viel Glück}
+\begin{lilypond}
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+  \override Lyrics.LyricText.font-series = #'bold
+}
+
+normal = {
+  \revert Lyrics.LyricText.font-shape
+  \revert Lyrics.LyricText.font-series
+}
+
+\score {
+  <<
+    \new Staff {
+      \new Voice = "melody" {
+        \time 3/4
+        { \partial 4 g'8 g'8  |   a'4 g'4 c''4 b'2
+          g'8 g'8 | a'4 g'4 d''4 c''2 
+          g'8 g'8 | g''4 e'' c''8 c''8 b'4 a' 
+          f''8 f''8 | e''4 c''4 d''4 c''2. |
+         \bar "|."
+        }
+      }
+    }
+    \new Lyrics = "firstVerse" {
+      \lyricsto "melody" {
+        Zum Ge -- burts -- tag viel Glück, Zum Ge -- burts -- tag viel Glück!
+        Zum Ge -- burts -- tag lie -- ber \emphasize  Na -- me,  \normal  Zum Ge -- burts -- tag viel Glück!
+      }
+    }
+  >>
+
+}
+\end{lilypond}
+\\
+
+
+%
+% Hoch soll er leben
+%
+
+\section*{Hoch soll er leben !}
+\begin{lilypond}
+\score {
+  <<
+    \new Staff {
+      \new Voice = "melody" {
+        \time 4/4
+        { c'4 c'8 c'8 c'4 g4 | e'4 e'8 e'8 e'4 c'4  | g'4 b4 c'2 |
+         \bar "|."
+        }
+      }
+    }
+    \new Lyrics = "firstVerse" {
+      \lyricsto "melody" {
+        Hoch soll er le -- ben,
+        hoch soll er le -- ben,
+        drei mal hoch!
+      }
+    }
+  >>
+
+}
+\end{lilypond}
+\\
+
+
+\end{document}
+
