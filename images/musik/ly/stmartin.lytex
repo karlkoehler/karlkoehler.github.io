@@ -1,0 +1,236 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage[letterpaper, portrait, margin=1.0in]{geometry}
+
+
+
+%% article | report
+%% part | chapter | section | subsection
+% \title{}
+
+%% \paper { #(set-paper-size "a4" 'portrait) }
+%% 'landscape
+
+%\titleformat{\section}[wrap]
+%{\Large\bfseries}
+%{\thesection.}{0.5em}{}
+
+\begin{document}
+
+
+% Laterne, Laterne
+% Ich geh mit meiner Laterne
+% St Martin
+
+\section*{Laterne, Laterne}
+\begin{lilypond}
+\score {
+  <<
+    \new Staff {
+      \new Voice = "melody" {
+        \time 4/4
+        { \partial 4 a'4 | g'2 e'4   a'4 | g'2 e'4 r4
+          g' g' a' a' g'2 e'4
+          %% r4
+          c'8 e' g'4 g' e'
+          c'8 e' g'4 g' e'
+          c'8 e' g'4 g'8 g' a'4 a'8 a' g'4 g' e'2 \bar "|."
+        }
+      }
+    }
+    \new Lyrics = "firstVerse" {
+      \lyricsto "melody" {
+      La -- ter -- ne, La -- ter -- ne,
+      Son -- ne, Mond und Ster -- ne,
+          <<
+          {  \set stanza = #"1. "     bren -- ne auf mein Licht,
+              bren -- ne auf mein Licht,
+              a -- ber nur mei -- ne lie -- be La -- ter -- ne nicht.
+          }
+            \new Lyrics = "secondVerse"
+      \with { alignBelowContext = #"firstVerse" } { \set stanza = #"2. "
+           \set associatedVoice = "melody"
+               sperrt ihn ein, den Wind,
+                  sperrt ihn ein, den Wind,
+               er soll war -- ten _, bis wir zu Hau -- se sind.
+
+      }
+      \new Lyrics = "thirdVerse"
+      \with { alignBelowContext = #"secondVerse" } { \set stanza = #"3. "
+           \set associatedVoice = "melody"
+                blei -- be hell, mein Licht,
+                    blei -- be hell, mein Licht,
+                    sonst _ strahlt mei -- ne lie -- be La -- ter -- ne nicht.
+      }
+          >>
+       }
+    }
+  >>
+
+}
+\end{lilypond}
+\\
+%% \begin{multicols}{2}
+Latern,latern, sun,moon and stars, \\
+(1) flare up my light (2x), but not my beloved lantern !\\
+(2) ... lock up the wind (2x), it should wait until we are home.\\
+(3) ... stay bright my light (2x), otherwise my latern won't shine.\\
+%% \columnbreak
+%% \end{multicols}
+
+
+\section*{Ich geh mit meiner Laterne}
+\begin{lilypond}
+\score {
+  <<
+    \transpose c g {
+    \new Staff {
+      \key c \major
+      \new Voice = "melody" {
+        \time 6/4
+        {
+      \repeat volta 2
+      { \partial 4  g4 | c'2 c'4 e' c'   e' |  g'2. e'2 
+        c'4 | d' d' d' d' e'   d' | c'2. r2 
+          }
+      \repeat volta 2
+          {
+          e'4 g'2 e'4 c'2  e'4 g'2 e'4 c'2
+          c'4 d' d' d'  d' e'  d' c'2 c'4 c'4 r4 
+          }
+      }
+      r4 %% \bar "|."
+      }
+    }
+    }
+    \new Lyrics = "firstVerse" {
+      \lyricsto "melody" {
+          <<
+          {
+            Ich geh mit mei -- ner La -- ter -- ne
+            und mei -- ne La -- ter -- ne mit mir.
+          }
+             \new Lyrics = "repeated"
+      \with { alignBelowContext = #"firstVerse" } {
+           \set associatedVoice = "melody"
+        Dort o -- ben leuch -- ten die Ster -- ne und un -- ten,
+        leuch _ _ -- ten wir.
+      }
+      >>
+      <<
+      {  \set stanza = #"1. "
+        Ein Lich -- ter -- meer zu Mar -- tins Ehr!
+      }
+            \new Lyrics = "secondVerse"
+      \with { alignBelowContext = #"repeated" } {  \set stanza = #"2. "
+           \set associatedVoice = "melody"
+        Wie schön das klingt, wenn je -- der singt:
+      }
+      \new Lyrics = "thirdVerse"
+      \with { alignBelowContext = #"secondVerse" } {  \set stanza = #"3. "
+           \set associatedVoice = "melody"
+        Mein Licht ist schön, könnt Ihr es sehn?
+      }
+      \new Lyrics = "forthVerse"
+      \with { alignBelowContext = #"thirdVerse" } {  \set stanza = #"4. "
+           \set associatedVoice = "melody"
+           Mein Licht ist aus, ich geh nach Haus.
+      }
+      >>
+      <<
+          {
+            ra -- bim -- mel- ra -- bam -- mel- ra -- bum.
+          }
+          %% \new Lyrics = "repeated"
+          %% \with { alignBelowContext = #"firstVerse" } {
+          %%   \set associatedVoice = "melody"
+          %%   ra -- bim -- mel-  ra -- bam -- mel- ra -- bum.
+          %% }
+      >>
+       }
+    }
+  >>
+}
+\end{lilypond}
+
+%% \begin{multicols}{2}
+I walk with my Lantern and my latern with me. There above the stars shine and down here we shine.\\
+ (1) A see of lights to honor (St) Martin (2x) \\
+ (2) How good it sounds when everybody sings ... (2x) \\
+ (3) My light is beautiful, can you see it ? (2x) \\
+ (4) My light is off, I go home . (2x)\\
+%% \columnbreak
+%% \end{multicols}
+
+
+\section*{Sankt Martin}
+\begin{lilypond}
+
+\score {
+  <<
+    \transpose c g {
+    \new Staff {
+      \accidentalStyle teaching
+      \key c \major
+      \new Voice = "melody" {
+        {  \partial 4  g4 | c'2 g4  c'8 (d') |  e'2 c'4
+          e'8 ( f')  | g'4 e'4  f' a' g' g'8 (f')  e'4 |
+          g' f' f' d' g' e' e'8 (d') c'4 |
+          g c' e' e' d'8 ( c') d'4 f' f'
+          e'8 ( d') e'4 g' e' c' e'8 ( d' ) d' ( b ) c'2 \bar "|."
+        }
+      }
+    }
+    }
+    \new Lyrics {
+      \lyricsto "melody" {  \set stanza = #"1. "
+Sankt Mar -- tin, Sankt Mar -- tin,
+Sankt Mar -- tin ritt durch Schnee und Wind,
+sein Ross, das trug ihn fort ge -- schwind.
+Sankt Mar -- tin ritt mit  leich -- tem Mut,
+sein Man -- tel deckt ihn warm  und   gut.
+       }
+    }
+    \new Lyrics {
+      \lyricsto "melody" {  \set stanza = #"2. "
+Im Schnee saß, im Schnee saß,
+im Schnee, da saß ein ar -- mer Mann,
+hat Klei -- der nicht, hat Lum -- pen an:
+„Oh helft mir doch in mei -- ner Not,
+sonst ist der bitt -- re Frost mein Tod!“
+      }
+    }
+    \new Lyrics {
+      \lyricsto "melody" {  \set stanza = #"3. "
+Sankt Mar -- tin, Sankt Mar -- tin,
+Sankt Mar -- tin zieht die Zü -- gel an,
+sein Ross steht still beim bra -- ven Mann.
+Sankt Mar -- tin mit dem Schwer -- te teilt
+den war -- men Man -- tel un -- ver -- weilt.
+       }
+    }
+    \new Lyrics {
+      \lyricsto "melody" {  \set stanza = #"4. "
+Sankt Mar -- tin, Sankt Mar -- tin,
+Sankt Mar -- tin gibt den hal -- ben still,
+der Bett -- ler rasch ihm dan -- ken will.
+Sankt Mar -- tin a -- ber ritt in Eil
+hin -- weg mit sei -- nem Man -- tel -- teil.
+      }
+    }
+  >>
+
+}
+\end{lilypond} \\
+\begin{multicols}{2} 
+(1) St Martin (3x) rode through snow and wind,  his steed carried him on swiftly. St Martin rode with an easy spirit, his coat is warm and covern him well.\\
+(2) In the snow (3x) sat a poor man, he doesn't have clothes, is only wearing rags. "Oh help me in my misery, otherwise the bitter frost will be my death !".\\
+(3) St Martin (3x) draws in the reins, his horse stands still next to the destitute man. St. Martin, unhesitating splits his coat  with his sword.\\
+(4) St Martin (3x) quietly gives him one half, the begger quickly wants to thank him. But St Martin rode on quickly with his coathalf.
+%% \columnbreak
+\end{multicols}
+
+
+\end{document}
