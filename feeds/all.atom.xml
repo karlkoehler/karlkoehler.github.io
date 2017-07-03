@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Karl's project page</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-03-01T00:00:00+01:00</updated><entry><title>Kinderlieder</title><link href="/kinderlieder.html" rel="alternate"></link><published>2017-03-01T00:00:00+01:00</published><updated>2017-03-01T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:None,2017-03-01:/kinderlieder.html</id><summary type="html">&lt;h1&gt;Kinderlieder&lt;/h1&gt;
-&lt;p&gt;Eine Sprache lernen, das tut man mithilfe von Sprache, Spass soll es machen,
-und einprägsam sein. Keiner lernt wirklich durch stures Vokabelpauken; selbst wenn
-man die Disziplin für so etwas hat, muss doch ein "Aha"-Moment dazukommen.&lt;/p&gt;
-&lt;p&gt;Zusammen Lieder zu singen bietet Spass und Geselligkeit und es ist damit …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Kinderlieder&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Karl's project page</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-07-12T00:00:00+02:00</updated><entry><title>Solar Array - Planning Phase</title><link href="/Solar-plan.html" rel="alternate"></link><updated>2017-07-12T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2017-07-12:Solar-plan.html</id><summary type="html"></summary></entry><entry><title>Solar - Planungsphase</title><link href="/de/Solar-plan.html" rel="alternate"></link><updated>2017-07-12T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2017-07-12:de/Solar-plan.html</id><summary type="html">&lt;p&gt;Am Samstag waren wir im Baumarkt und trafen dort eine SolarCity - Verkaufsperson. Inzwischen ist das Modell ja bekannt, aber der Unterschied ist, das wir zugestimmt haben.&lt;/p&gt;
+&lt;p&gt;SolarCity funktioniert nach einem Leasing-Modell: Man muss nichts im Vorraus bezahlen, und die Solarpanele sind im Besitz von SolarCity. Den Strom kauft man dann für $0.17/kWH von SolarCity, wärend das normale Energieversorgungsunternehmen ( bei uns PG&amp;amp;E ) uns weiter mit Erdgas versorgt. Da Strom von PG&amp;amp;E normal $0.19/kWH und in Spitzenzeiten $0.40/kWH kostet, ist das erstmal kein Nachteil. Den überschüssigen Strom verkauft SolarCity an PG&amp;amp;E, und zwar nach einem Tageszeitabhängigen Modell. Momemtan garantiert SolarCity sogar, das seine Strompreise weniger stark steigen als die von PG&amp;amp;E, d.h. man wettet darauf, Tagsüber mehr Strom für $0.40 an PG&amp;amp;E verkaufen zu können als man nachtsüber von PG&amp;amp;E selbst kaufen muss, das macht insofern Sinn, als das Tagsüber die meisten Fabriken voll arbeiten, die Klima-anlagen in den Büros und Serverräumen auf hochtouren arbeiten und auf diese weise Tagsüber mehr Strom verbraucht wird als abends. ( Wenn aber sehr viel Solarpanele installiert sind, dann bricht der Strompreis Tagsüber ein, weil es mehr Angebot als Nachfrage gibt, und Abends, wenn man - elektrisch - Abendessen kocht, am Computer spielt, ins Kino geht, etc. und die Sonne nicht mehr scheint, hat man dann ein Problem. Noch ist das wohl nicht der Fall, PG&amp;amp;E selbst baut weiter Solarkraftwerke. )
+ Hier rechnet man, dass ein Panel von 1.4 m^2 - 325W - pro Jahr 400 kWH Energie Produziert.&lt;/p&gt;
+&lt;p&gt;Tja, Samstagabend kam schon der Vertreter, am Sonntagmorgen der Ingeneur, um das Dach zu vermessen und die Anlage zu Planen, und am Nachmittag rief man an um mitzuteilen, dass die Planung auf dem Weg ist.&lt;/p&gt;</summary></entry><entry><title>Kinderlieder</title><link href="/kinderlieder.html" rel="alternate"></link><updated>2017-03-01T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:,2017-03-01:kinderlieder.html</id><summary type="html">&lt;h1&gt;Kinderlieder&lt;/h1&gt;
 &lt;p&gt;Eine Sprache lernen, das tut man mithilfe von Sprache, Spass soll es machen,
 und einprägsam sein. Keiner lernt wirklich durch stures Vokabelpauken; selbst wenn
 man die Disziplin für so etwas hat, muss doch ein "Aha"-Moment dazukommen.&lt;/p&gt;
@@ -15,44 +14,24 @@ und Bezahl-portalen, die eine eher schlechte als rechte Vorschau bereithalten.&l
 &lt;a href="http://www.mutopia.org"&gt;Mutopia&lt;/a&gt;. Warum nicht auch die Kinderlieder, die
 ich grade singen will ?&lt;/p&gt;
 &lt;p&gt;Zum Copyright: CC-BY-SA-4.0 . Kopiere, wie Du willst, aber sage, woher es kam !&lt;/p&gt;
-&lt;p&gt;Auf einer Konferenz sass ich einmal in einem Vortrag, dessen Thema mir sehr vertraut war, der Vortragende ein ehemaliger Kollege. Er hatte an meiner Arbeit ein kleines bischen verändert, und war ganz stolz, das ganze zu präsentieren. Meinen Namen zu erwähnen hielt er nicht für nötig.&lt;/p&gt;</content></entry><entry><title>Geburtstag</title><link href="/geburtstag.html" rel="alternate"></link><published>2017-02-12T00:00:00+01:00</published><updated>2017-02-12T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:None,2017-02-12:/geburtstag.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/Geburtstag.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Auf einer Konferenz sass ich einmal in einem Vortrag, dessen Thema mir sehr vertraut war, der Vortragende ein ehemaliger Kollege. Er hatte an meiner Arbeit ein kleines bischen verändert, und war ganz stolz, das ganze zu präsentieren. Meinen Namen zu erwähnen hielt er nicht für nötig.&lt;/p&gt;</summary></entry><entry><title>Geburtstag</title><link href="/geburtstag.html" rel="alternate"></link><updated>2017-02-12T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:,2017-02-12:geburtstag.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/Geburtstag.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Weil heute dein Geburtstag ist&lt;/li&gt;
 &lt;li&gt;Zum Geburtstag viel Glück&lt;/li&gt;
 &lt;li&gt;Hoch soll er leben&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/Geburtstag.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/Geburtstag.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/Geburtstag.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Weil heute dein Geburtstag ist&lt;/li&gt;
-&lt;li&gt;Zum Geburtstag viel Glück&lt;/li&gt;
-&lt;li&gt;Hoch soll er leben&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/Geburtstag.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/Geburtstag.png" /&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Weihnachten</title><link href="/weihnachten.html" rel="alternate"></link><published>2016-12-24T00:00:00+01:00</published><updated>2016-12-24T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:None,2016-12-24:/weihnachten.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/weihnacht.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/images/musik/pdf/Geburtstag.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/Geburtstag.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Weihnachten</title><link href="/weihnachten.html" rel="alternate"></link><updated>2016-12-24T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:,2016-12-24:weihnachten.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/weihnacht.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Leise rieselt der Schnee&lt;/li&gt;
 &lt;li&gt;Kling, Glökchen, klingelingeling&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/weihnacht.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/weihnacht.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/weihnacht.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Leise rieselt der Schnee&lt;/li&gt;
-&lt;li&gt;Kling, Glökchen, klingelingeling&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/weihnacht.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/weihnacht.png" /&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Sankt Martin</title><link href="/sankt-martin.html" rel="alternate"></link><published>2016-11-11T00:00:00+01:00</published><updated>2016-11-11T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:None,2016-11-11:/sankt-martin.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/stmartin.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/images/musik/pdf/weihnacht.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/weihnacht.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Sankt Martin</title><link href="/sankt-martin.html" rel="alternate"></link><updated>2016-11-11T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:,2016-11-11:sankt-martin.html</id><summary type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/stmartin.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Laterne, Laterne&lt;/li&gt;
 &lt;li&gt;Ich geh mit meiner Laterne&lt;/li&gt;
 &lt;li&gt;Sankt Martin, Sankt Martin&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/stmartin.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/stmartin.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;a href="/images/musik/ly/stmartin.lytex"&gt;Noten&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Laterne, Laterne&lt;/li&gt;
-&lt;li&gt;Ich geh mit meiner Laterne&lt;/li&gt;
-&lt;li&gt;Sankt Martin, Sankt Martin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="/images/musik/pdf/stmartin.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/stmartin.png" /&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>picnictable</title><link href="/Picknicktisch.html" rel="alternate"></link><published>2016-06-18T00:00:00+02:00</published><updated>2016-06-18T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-18:/Picknicktisch.html</id><summary type="html">&lt;p&gt;At the german school ( Saturdays at Kimber Hills Acadamy ) there are colorful picnictables I liked:&lt;/p&gt;
-&lt;p&gt;&lt;a href="/images/picknicktisch/kha_tisch.jpg"&gt;&lt;img alt="tisch" src="/images/picknicktisch/kha_tisch_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;As we have taken down the pergola, there is plenty of wood available ( and stacked around the yard. Even taken the rotten parts into account, there is quite enough left.&lt;/p&gt;
-&lt;p&gt;We went to the the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;At the german school ( Saturdays at Kimber Hills Acadamy ) there are colorful picnictables I liked:&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/musik/pdf/stmartin.pdf"&gt;&lt;img alt="noten" src="/images/musik/pdf/stmartin.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>picnictable</title><link href="/Picknicktisch.html" rel="alternate"></link><updated>2016-06-18T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-18:Picknicktisch.html</id><summary type="html">&lt;p&gt;At the german school ( Saturdays at Kimber Hills Acadamy ) there are colorful picnictables I liked:&lt;/p&gt;
 &lt;p&gt;&lt;a href="/images/picknicktisch/kha_tisch.jpg"&gt;&lt;img alt="tisch" src="/images/picknicktisch/kha_tisch_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As we have taken down the pergola, there is plenty of wood available ( and stacked around the yard. Even taken the rotten parts into account, there is quite enough left.&lt;/p&gt;
 &lt;p&gt;We went to the the hardware store to select a beutiful color of paint.&lt;/p&gt;
@@ -61,9 +40,7 @@ ich grade singen will ?&lt;/p&gt;
 &lt;p&gt;Something wasn't measured 100% right. 
 &lt;img alt="tisch" src="/images/picknicktisch/tisch_rahmen_klein.JPG" /&gt;&lt;/p&gt;
 &lt;p&gt;It's not that visible. The seating is a little to narrow, I'll add another 2x2.
-&lt;img alt="tisch" src="/images/picknicktisch/tisch_fertig_klein.JPG" /&gt;&lt;/p&gt;</content></entry><entry><title>Picknicktisch</title><link href="/de/Picknicktisch.html" rel="alternate"></link><published>2016-06-18T00:00:00+02:00</published><updated>2016-06-18T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-18:/de/Picknicktisch.html</id><summary type="html">&lt;p&gt;In der Deutschen Schule ( na ja, Kimber Hills Acadamy, welches die letzten paar Jahre die Räumlichkeiten an die Deutsche vermietet hat ) gibt es solche Picknicktische:&lt;/p&gt;
-&lt;p&gt;&lt;a href="/images/picknicktisch/kha_tisch.jpg"&gt;&lt;img alt="tisch" src="/images/picknicktisch/kha_tisch_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Und da wir die Pergola abgebaut hatten, haben wir reichlich Holz im Garten herumliegen. Ein wenig ist das Holz zwar wurmstichig und verrottet. Aber halt …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In der Deutschen Schule ( na ja, Kimber Hills Acadamy, welches die letzten paar Jahre die Räumlichkeiten an die Deutsche vermietet hat ) gibt es solche Picknicktische:&lt;/p&gt;
+&lt;img alt="tisch" src="/images/picknicktisch/tisch_fertig_klein.JPG" /&gt;&lt;/p&gt;</summary></entry><entry><title>Picknicktisch</title><link href="/de/Picknicktisch.html" rel="alternate"></link><updated>2016-06-18T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-18:de/Picknicktisch.html</id><summary type="html">&lt;p&gt;In der Deutschen Schule ( na ja, Kimber Hills Acadamy, welches die letzten paar Jahre die Räumlichkeiten an die Deutsche vermietet hat ) gibt es solche Picknicktische:&lt;/p&gt;
 &lt;p&gt;&lt;a href="/images/picknicktisch/kha_tisch.jpg"&gt;&lt;img alt="tisch" src="/images/picknicktisch/kha_tisch_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Und da wir die Pergola abgebaut hatten, haben wir reichlich Holz im Garten herumliegen. Ein wenig ist das Holz zwar wurmstichig und verrottet. Aber halt nur dort, wo es immer im Winter mit Wasser in Berührung gekommen ist ... und das ist immer am Ende der Balken, kann man also absägen.&lt;/p&gt;
 &lt;p&gt;Dann waren wir im Baumarkt um eine schöne Farbe für so einen Picknicktisch ausyusuchen.&lt;/p&gt;
@@ -72,16 +49,14 @@ ich grade singen will ?&lt;/p&gt;
 &lt;p&gt;Am Ende stellt sich heraus, irgend etwas war nicht 100% richtig bemessen.
 &lt;img alt="tisch" src="/images/picknicktisch/tisch_rahmen_klein.JPG" /&gt;&lt;/p&gt;
 &lt;p&gt;Nicht so schlimm, das merkt man nicht so. Aber die Sitzfläche ist ein wenig zu schmal, also werde ich noch so einen Streifen dazunehmen:
-&lt;img alt="tisch" src="/images/picknicktisch/tisch_fertig_klein.JPG" /&gt;&lt;/p&gt;</content></entry><entry><title>bunkbed</title><link href="/Doppelbett.html" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/Doppelbett.html</id><summary type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
-Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte früher schon für Lukas ein Einzelbett gebaut ...&lt;/p&gt;
-&lt;p&gt;Den ungefähren Plan habe ich von &lt;a href="http://wwww.woodgears.ca/"&gt;Markus …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
+&lt;img alt="tisch" src="/images/picknicktisch/tisch_fertig_klein.JPG" /&gt;&lt;/p&gt;</summary></entry><entry><title>bunkbed</title><link href="/Doppelbett.html" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-06:Doppelbett.html</id><summary type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
 Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte früher schon für Lukas ein Einzelbett gebaut ...&lt;/p&gt;
 &lt;p&gt;Den ungefähren Plan habe ich von &lt;a href="http://wwww.woodgears.ca/"&gt;Markus Wandel&lt;/a&gt;, hier ist Markus' version: &lt;a href="http://www.woodgears.ca/bed/bunk_bed/built.html"&gt;http://www.woodgears.ca/bed/bunk_bed/built.html&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;Kopf und Fuss-ende mußte ich komplett neu anfertigen, und leider habe ich nicht so präzise gearbeitet wie erhofft, das Leimen war schwierig. Letzendes sieht es aber doch ganz gut aus, es gibt keine Lücken ( die gabs leider bei dem ersten Bett, und so etwas sieht man selbst dann, wenn man diese mit Leim und Sägemehl füllt ).&lt;/p&gt;
 &lt;p&gt;Hier sieht man einige Teile wie sie draussen liegen - Holz tendiert dazu, schmutz anzuziehen, wenn es nicht lackiert ist, bzw. der Schmutz geht nicht leicht ab. Aber in der Garage habe ich nicht genug Platz, das ordentlich zu machen, zumal ich noch ein wenig die Säge benutzen wollte, und Sägen ( Späne !) und Lackieren passt nicht zusammen.
 &lt;a href="/images/doppelbett/teile_gross.jpg"&gt;&lt;img alt="bett" src="/images/doppelbett/teile_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hier fehlen noch die Matratzen, Erwin wollte die oberen Ebenen schon mal erkunden:
-&lt;img alt="bett" src="/images/doppelbett/bett_fast_fertig.jpg" /&gt;&lt;/p&gt;</content></entry><entry><title>Homepage</title><link href="/" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/</id><summary type="html">&lt;p&gt;I'm learning a bit about HTML and CSS, and as such, these pages are quite experimental.&lt;/p&gt;
+&lt;img alt="bett" src="/images/doppelbett/bett_fast_fertig.jpg" /&gt;&lt;/p&gt;</summary></entry><entry><title>Homepage</title><link href="/" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-06:</id><summary type="html">&lt;p&gt;I'm learning a bit about HTML and CSS, and as such, these pages are quite experimental.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -101,78 +76,18 @@ Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte frühe
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Websites of friends and auther interesting people:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</summary><content type="html">&lt;p&gt;I'm learning a bit about HTML and CSS, and as such, these pages are quite experimental.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;wood&lt;/th&gt;
-&lt;th&gt;music&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/de/Picknicktisch.html"&gt;picnic table&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="/sankt-martin.html"&gt;Sankt Martin&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/de/Doppelbett.html"&gt;bunkbed&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="/geburtstag.html"&gt;birthday&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Websites of friends and auther interesting people:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content></entry><entry><title>Doppelbett</title><link href="/de/Doppelbett.html" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/de/Doppelbett.html</id><summary type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
-Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte früher schon für Lukas ein Einzelbett gebaut ...&lt;/p&gt;
-&lt;p&gt;Den ungefähren Plan habe ich von &lt;a href="http://wwww.woodgears.ca/"&gt;Markus …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Doppelbett</title><link href="/de/Doppelbett.html" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-06:de/Doppelbett.html</id><summary type="html">&lt;p&gt;Grundsätzliche Idee hier: Lukas und Erwin schlafen gemeinsam in einem Zimmer, belästigen sich nicht, und das Bett nimmt nicht zu viel Fläche ein.
 Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte früher schon für Lukas ein Einzelbett gebaut ...&lt;/p&gt;
 &lt;p&gt;Den ungefähren Plan habe ich von &lt;a href="http://wwww.woodgears.ca/"&gt;Markus Wandel&lt;/a&gt;, hier ist Markus' version: &lt;a href="http://www.woodgears.ca/bed/bunk_bed/built.html"&gt;http://www.woodgears.ca/bed/bunk_bed/built.html&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;Kopf und Fuss-ende mußte ich komplett neu anfertigen, und leider habe ich nicht so präzise gearbeitet wie erhofft, das Leimen war schwierig. Letzendes sieht es aber doch ganz gut aus, es gibt keine Lücken ( die gabs leider bei dem ersten Bett, und so etwas sieht man selbst dann, wenn man diese mit Leim und Sägemehl füllt ).&lt;/p&gt;
 &lt;p&gt;Hier sieht man einige Teile wie sie draussen liegen - Holz tendiert dazu, schmutz anzuziehen, wenn es nicht lackiert ist, bzw. der Schmutz geht nicht leicht ab. Aber in der Garage habe ich nicht genug Platz, das ordentlich zu machen, zumal ich noch ein wenig die Säge benutzen wollte, und Sägen ( Späne !) und Lackieren passt nicht zusammen.
 &lt;a href="/images/doppelbett/teile_gross.jpg"&gt;&lt;img alt="bett" src="/images/doppelbett/teile_klein.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hier fehlen noch die Matratzen, Erwin wollte die oberen Ebenen schon mal erkunden:
-&lt;img alt="bett" src="/images/doppelbett/bett_fast_fertig.jpg" /&gt;&lt;/p&gt;</content></entry><entry><title>Homepage</title><link href="/de/" rel="alternate"></link><published>2016-06-06T00:00:00+02:00</published><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:None,2016-06-06:/de/</id><summary type="html">&lt;p&gt;Etwas über HTML und CSS wollte ich auch lernen, daher ist diese Seite, unvollständig wie sie erscheint, schon zu sehen.&lt;/p&gt;
+&lt;img alt="bett" src="/images/doppelbett/bett_fast_fertig.jpg" /&gt;&lt;/p&gt;</summary></entry><entry><title>Homepage</title><link href="/de/" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>karl</name></author><id>tag:,2016-06-06:de/</id><summary type="html">&lt;p&gt;Etwas über HTML und CSS wollte ich auch lernen, daher ist diese Seite, unvollständig wie sie erscheint, schon zu sehen.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -192,70 +107,11 @@ Für die seiten habe ich Teile verwendet, die ich schon hatte - ich hatte frühe
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Und hier einige Links zu Webseiten von Bekannten:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</summary><content type="html">&lt;p&gt;Etwas über HTML und CSS wollte ich auch lernen, daher ist diese Seite, unvollständig wie sie erscheint, schon zu sehen.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Holz&lt;/th&gt;
-&lt;th&gt;Musik&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/de/Picknicktisch.html"&gt;Pikniktisch&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="/sankt-martin.html"&gt;Sankt Martin&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/de/Doppelbett.html"&gt;Doppelbett&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="/geburtstag.html"&gt;Geburtstag&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Und hier einige Links zu Webseiten von Bekannten:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content></entry><entry><title>Martin Kutz</title><link href="/martin-kutz.html" rel="alternate"></link><published>2007-01-11T00:00:00+01:00</published><updated>2007-01-11T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:None,2007-01-11:/martin-kutz.html</id><summary type="html">&lt;h1&gt;Martin Kutz&lt;/h1&gt;
-&lt;p&gt;Man Trifft im Leben selten Leute, die ausserordentlich aufgeweckt, aufmerksam und klug sind. Die Zeitschrift der Zeugen Jehovas "Erwachet" und "Wachturm" spielen, ja nicht umsonst darauf hin, nur bei denen wird der Effekt dadurch oft zunichte gemacht, das die Zeugen selbst eher wie Zombies, bestenfalls wie Littfassäulen herumstehen …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Martin Kutz&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/martin-kutz.html"&gt;Martin Kutz &lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.martinkohlwes.de/"&gt;Martin Kohlwes &lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.martin-foikis.de/"&gt;Martin Foikis &lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Martin Kutz</title><link href="/martin-kutz.html" rel="alternate"></link><updated>2007-01-11T00:00:00+01:00</updated><author><name>karl</name></author><id>tag:,2007-01-11:martin-kutz.html</id><summary type="html">&lt;h1&gt;Martin Kutz&lt;/h1&gt;
 &lt;p&gt;Man Trifft im Leben selten Leute, die ausserordentlich aufgeweckt, aufmerksam und klug sind. Die Zeitschrift der Zeugen Jehovas "Erwachet" und "Wachturm" spielen, ja nicht umsonst darauf hin, nur bei denen wird der Effekt dadurch oft zunichte gemacht, das die Zeugen selbst eher wie Zombies, bestenfalls wie Littfassäulen herumstehen und die Zeit ihres Lebens vergeuden.&lt;/p&gt;
 &lt;p&gt;Martin Kutz war so einer dieser wenigen Leute. Man merkte es sofort. In den Vorlesungen verstand er fast immer deutlich mehr; aber nicht nur das, er vermochte es auch stets, auf einen einzugehen, zuzuhöhren und so seine Einsichten passend den eigenen Problemen einläuternd so zu erklären, das man es jetzt verstanden hatte. Er war aber auch ein Freund, mit dem man bei gelegenheit zusammen Kochen oder Computerspiele spielen konnte, und der einem half, wenn es sein musste, auch mitten in der Nacht die Bibliothek nach einem Lösusungsansatz zu einem trickreichen Problem durchzuackern.&lt;/p&gt;
-&lt;p&gt;-&amp;gt; &lt;strong&gt;  &lt;a href="http://people.mpi-inf.mpg.de/alumni/d1/2009/mkutz//"&gt;Martin Kutz &lt;/a&gt;  &lt;/strong&gt; &amp;lt;-&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;-&amp;gt; &lt;strong&gt;  &lt;a href="http://people.mpi-inf.mpg.de/alumni/d1/2009/mkutz//"&gt;Martin Kutz &lt;/a&gt;  &lt;/strong&gt; &amp;lt;-&lt;/p&gt;</summary></entry></feed>
